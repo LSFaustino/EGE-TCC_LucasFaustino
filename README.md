@@ -1,2 +1,2 @@
 # EGE-TCC_LucasFaustino
-Efeitos transitórios em linha de transmissão de alta tensão. 
+Análise e mitigação do efeito Ferranti em linhas de transmissão de 500 kV por simulação computacional.
