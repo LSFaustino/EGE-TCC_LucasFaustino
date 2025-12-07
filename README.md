@@ -5,7 +5,7 @@
 
 **Lucas da Silva Faustino** (Centro Universitário da Fundação Hermínio Ometto)
 <br>
-[lucas.sf987@alunos.fho.edu.br](mailto:lucas.sf987@alunos.fho.edu.br)
+[lsfaustino98@gmail.com](mailto:lsfaustino98@gmail.com)
 
 **Daniel Augusto Pagi Ferreira** (Centro Universitário da Fundação Hermínio Ometto)
 <br>
